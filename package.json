@@ -1,6 +1,6 @@
 {
   "name": "@thewizard0f0z/randomid-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "https://github.com/TheWizard0f0z/node-js-id-generator.git",
   "author": "Marcin Dzieszkowski <m.dzieszkowski@gmail.com>",
